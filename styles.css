@@ -1,1 +1,36 @@
 /* Style sheet for Odin Recipes */
+
+h1 {
+    font-family: 'Brush Script MT', cursive, sans-serif;
+    font-size: 75px;
+}
+
+.menu li {
+    font-size: 25px;
+}
+
+.menu {
+    background-color: green;
+}
+
+.lasagna {
+    color: orange;
+}
+
+.pizza {
+    color: yellow;
+}
+
+.hamburger {
+    color: red;
+}
+
+.ingredients-list {
+    background-color: green;
+    color: black;
+}
+
+.steps-list {
+    background-color: blue;
+    color: white;
+}
